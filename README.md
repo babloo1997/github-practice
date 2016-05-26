@@ -1,2 +1,2 @@
 # github-practice
-A simple demo repository to practice git hub
+A simple exarepository to practice git hub
